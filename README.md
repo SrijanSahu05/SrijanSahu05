@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻I am Full Stack MERN Developer<br>🚀Building scalable and user-friendly web applications<br>⚛️Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS<br>🔐Experienced with JWT Authentication, REST APIs, Socket.io, and Git/GitHub<br>🌱Currently learning advanced backend architecture, cloud technologies, and system design<br>🎓B.Tech CSE Student (2022–2026)<br>📫Always open to collaborating on interesting projects and learning opportunities<br>
+# 👋 Hey, I'm Srijan Sahu
+💻Full Stack MERN Developer<br>🚀Building scalable and user-friendly web applications<br>⚛️Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS<br>🔐Experienced with JWT Authentication, REST APIs, Socket.io, and Git/GitHub<br>🌱Currently learning advanced backend architecture, cloud technologies, and system design<br>🎓B.Tech CSE Student (2022–2026)<br>📫Always open to collaborating on interesting projects and learning opportunities<br>
 
 
 ## 🌐 Socials:
