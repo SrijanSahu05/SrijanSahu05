@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Srijan Sahu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;B.Tech+CSE+Student;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
