@@ -97,22 +97,6 @@
 
 ---
 
-<h2 align="center">👀 Visitors Counter</h2>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SrijanSahu05&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6a11cb,100:2575fc&section=footer"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
