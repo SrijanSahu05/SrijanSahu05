@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;B.Tech+CSE+Student;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
 </div>
 
 ---
@@ -99,13 +97,17 @@
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">👀 Visitors Counter</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=SrijanSahu05&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6a11cb,100:2575fc&section=footer"/>
 
 </div>
 
@@ -115,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SrijanSahu05&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -125,17 +127,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrijanSahu05&theme=tokyo-night"/>
 
 </div>
 
