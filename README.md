@@ -104,9 +104,9 @@ Motto: "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SrijanSahu05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrijanSahu05&theme=tokyonight"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSahu05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrijanSahu05&theme=tokyonight"/>
 
 <br/><br/>
 
