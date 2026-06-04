@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SrijanSahu05&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SrijanSahu05)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/SrijanSahu05?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/SrijanSahu05)
-
 </div>
 
 <br/>
