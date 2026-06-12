@@ -4,12 +4,7 @@
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=%F0%9F%9A%80+Building+Modern+Web+Applications;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A7%A0+DSA+Problem+Solver;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing" alt="Typing SVG"/>
 <br/>
-<!-- ═══════════════════════ PROFILE VIEWS + FOLLOWERS ═══════════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=SrijanSahu05&label=Profile+Views&color=00D9FF&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/SrijanSahu05?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=flat-square&labelColor=0d1117"/>
+  
 </div>
 
 <br/>
@@ -40,18 +35,14 @@ Motto: "Code. Learn. Build. Repeat."
 ## 🌐 Connect With Me
 
 <p align="left">
+  
 <a href="mailto:srijansahu564@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/srijan-sahu-058942286/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/srijansahu/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/srijan_sahu_05" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+
 </p>
 
 ---
