@@ -1,9 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Srijan%20Sahu&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
+<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00D9FF&height=250&section=header&text=Srijan%20Sahu&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=62&descSize=18&descColor=a0c4ff" width="100%"/>
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=%F0%9F%9A%80+Building+Modern+Web+Applications;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A7%A0+DSA+Problem+Solver;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing" alt="Typing SVG"/>
+<br/>
+<!-- ═══════════════════════ PROFILE VIEWS + FOLLOWERS ═══════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=SrijanSahu05&label=Profile+Views&color=00D9FF&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/SrijanSahu05?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=flat-square&labelColor=0d1117"/>
 </div>
 
 <br/>
@@ -67,18 +73,15 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrijanSahu05&theme=tokyonight"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrijanSahu05&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SrijanSahu05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSahu05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" width="41%"/>
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SrijanSahu05&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SrijanSahu05&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=ff6b6b&currStreakLabel=00D9FF&sideLabels=a0c4ff&dates=6e7681" width="70%"/>
 </div>
 
 ---
